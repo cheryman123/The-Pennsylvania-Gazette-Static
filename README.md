@@ -1,0 +1,1 @@
+This is a static version of the dynamic website. This website serves the purpose of demonstrating my design abilities. In the matter of creating a website that is modern yet has the aesthetics of an old colonial newspaper.

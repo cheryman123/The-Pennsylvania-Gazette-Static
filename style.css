@@ -129,6 +129,10 @@ input, select {
 
 /* My Code */
 
+a.hoverhyper {
+    color: #3E54E8;
+}
+
 body {
     zoom: 105%;
     background-color: #F2eecb;

@@ -129,7 +129,7 @@ input, select {
 
 /* My Code */
 
-a.hoverhyper {
+a.hoverhyper:hover {
     color: #3E54E8;
 }
 

@@ -426,11 +426,11 @@ pre.comment{
     color: #1A1A1B;
 }
 
-a.hoverhyper{
+a.hyp{
     color: #00FFFF !important;
 }
 
-a.hoverhyper:hover{
+a.hyp:hover{
     color: #3E54E8 !important;
 }
 

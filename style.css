@@ -129,10 +129,6 @@ input, select {
 
 /* My Code */
 
-a.hoverhyper:hover {
-    color: #3E54E8;
-}
-
 body {
     zoom: 105%;
     background-color: #F2eecb;
@@ -428,6 +424,14 @@ pre.comment{
 .topnav a:hover {
     background-color: #F2eecb;
     color: #1A1A1B;
+}
+
+a.hoverhyper{
+    color: #00FFFF;;
+}
+
+a.hoverhyper:hover{
+    color: #3E54E8;;
 }
 
 /* Droped */

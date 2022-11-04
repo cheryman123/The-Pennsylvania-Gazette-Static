@@ -427,11 +427,11 @@ pre.comment{
 }
 
 a.hoverhyper{
-    color: #00FFFF;
+    color: #00FFFF !important;
 }
 
 a.hoverhyper:hover{
-    color: #3E54E8;
+    color: #3E54E8 !important;
 }
 
 /* Droped */
